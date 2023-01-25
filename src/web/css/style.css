@@ -1,0 +1,13 @@
+nav ul div#lien {
+    display:flex;
+    list-style: none;
+    text-align: start;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+nav ul div#lien li{
+    max-height: 20px;
+    margin-right: 2%;
+}

@@ -2,15 +2,18 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../web/css/style.css">
     <title>Titre de la page</title>
 </head>
 <body>
 <header>
     <nav>
         <ul>
-            <li><a href="#">Lien 1</a></li>
-            <li><a href="#">Lien 2</a></li>
-            <li><a href="#">Lien 3</a></li>
+            <div id="lien">
+                <li><a href="#">Accueil</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Exercices</a></li>
+            </div>
         </ul>
     </nav>
 </header>
